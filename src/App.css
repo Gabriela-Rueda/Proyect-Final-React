@@ -1,0 +1,25 @@
+#root {
+  
+  margin: 0 auto;
+  
+  text-align: center;
+}
+
+.list-details{
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+}
+
+.div-details{
+  width: 80vw;
+}
+
+.list-home{
+  list-style: none;
+}
+
+.div-products{
+  display: flex;
+  flex-direction: column;
+}
